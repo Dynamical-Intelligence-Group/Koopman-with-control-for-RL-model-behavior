@@ -10,4 +10,4 @@ To train RL models, open the ```KoopmanTaskRL.ipynb``` notebook. This allows you
 
 To compare multiple differently trained RL models, open the ```KoopmanTaskRLPlotting.ipynb``` notebook. This generates plots for all specified models and training epochs. 
 
-<img src="https://github.com/Dynamical-Intelligence-Group/Koopman-with-control-for-RL-model-behavior/blob/main/results/CartPole-v1-summary-results.jpg" alt="Alt Text" height = "302" width = "600">
+<img src="https://github.com/Dynamical-Intelligence-Group/Koopman-with-control-for-RL-model-behavior/blob/main/results/CartPole-v1-summary-results.png" alt="Alt Text" height = "400" width = "900">
